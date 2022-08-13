@@ -1,0 +1,381 @@
+Home,Away
+Milan,Udinese
+Sampdoria,Atalanta
+Lecce,Inter
+Monza,Torino
+Lazio,Bologna
+Fiorentina,Cremonese
+Salernitana,Roma
+Spezia,Empoli
+Hellas Verona,Napoli
+Juventus,Sassuolo
+Udinese,Salernitana
+Torino,Lazio
+Sassuolo,Lecce
+Inter,Spezia
+Napoli,Monza
+Empoli,Fiorentina
+Atalanta,Milan
+Bologna,Hellas Verona
+Roma,Cremonese
+Sampdoria,Juventus
+Monza,Udinese
+Lazio,Inter
+Juventus,Roma
+Cremonese,Torino
+Milan,Bologna
+Spezia,Sassuolo
+Hellas Verona,Atalanta
+Salernitana,Sampdoria
+Lecce,Empoli
+Fiorentina,Napoli
+Sassuolo,Milan
+Roma,Monza
+Inter,Cremonese
+Empoli,Hellas Verona
+Sampdoria,Lazio
+Udinese,Fiorentina
+Juventus,Spezia
+Napoli,Lecce
+Atalanta,Torino
+Bologna,Salernitana
+Fiorentina,Juventus
+Milan,Inter
+Lazio,Napoli
+Cremonese,Sassuolo
+Spezia,Bologna
+Hellas Verona,Sampdoria
+Udinese,Roma
+Salernitana,Empoli
+Monza,Atalanta
+Torino,Lecce
+Sampdoria,Milan
+Lazio,Hellas Verona
+Juventus,Salernitana
+Lecce,Monza
+Empoli,Roma
+Sassuolo,Udinese
+Inter,Torino
+Napoli,Spezia
+Atalanta,Cremonese
+Bologna,Fiorentina
+Milan,Napoli
+Bologna,Empoli
+Fiorentina,Hellas Verona
+Torino,Sassuolo
+Udinese,Inter
+Cremonese,Lazio
+Spezia,Sampdoria
+Salernitana,Lecce
+Monza,Juventus
+Roma,Atalanta
+Lazio,Spezia
+Inter,Roma
+Empoli,Milan
+Juventus,Bologna
+Napoli,Torino
+Atalanta,Fiorentina
+Hellas Verona,Udinese
+Lecce,Cremonese
+Sassuolo,Salernitana
+Sampdoria,Monza
+Roma,Lecce
+Udinese,Atalanta
+Salernitana,Hellas Verona
+Torino,Empoli
+Monza,Spezia
+Bologna,Sampdoria
+Sassuolo,Inter
+Fiorentina,Lazio
+Milan,Juventus
+Cremonese,Napoli
+Lazio,Udinese
+Hellas Verona,Milan
+Empoli,Monza
+Atalanta,Sassuolo
+Torino,Juventus
+Lecce,Fiorentina
+Spezia,Cremonese
+Inter,Salernitana
+Napoli,Bologna
+Sampdoria,Roma
+Juventus,Empoli
+Bologna,Lecce
+Udinese,Torino
+Fiorentina,Inter
+Cremonese,Sampdoria
+Salernitana,Spezia
+Roma,Napoli
+Milan,Monza
+Sassuolo,Hellas Verona
+Atalanta,Lazio
+Lazio,Salernitana
+Lecce,Juventus
+Torino,Milan
+Empoli,Atalanta
+Cremonese,Udinese
+Hellas Verona,Roma
+Monza,Bologna
+Spezia,Fiorentina
+Napoli,Sassuolo
+Inter,Sampdoria
+Sampdoria,Fiorentina
+Juventus,Inter
+Udinese,Lecce
+Salernitana,Cremonese
+Bologna,Torino
+Roma,Lazio
+Empoli,Sassuolo
+Milan,Spezia
+Monza,Hellas Verona
+Atalanta,Napoli
+Torino,Sampdoria
+Inter,Bologna
+Fiorentina,Salernitana
+Lecce,Atalanta
+Napoli,Empoli
+Spezia,Udinese
+Sassuolo,Roma
+Cremonese,Milan
+Lazio,Monza
+Hellas Verona,Juventus
+Juventus,Lazio
+Hellas Verona,Spezia
+Empoli,Cremonese
+Sampdoria,Lecce
+Monza,Salernitana
+Bologna,Sassuolo
+Atalanta,Inter
+Napoli,Udinese
+Roma,Torino
+Milan,Fiorentina
+Torino,Hellas Verona
+Inter,Napoli
+Cremonese,Juventus
+Roma,Bologna
+Fiorentina,Monza
+Sassuolo,Sampdoria
+Lecce,Lazio
+Spezia,Atalanta
+Udinese,Empoli
+Salernitana,Milan
+Juventus,Udinese
+Salernitana,Torino
+Spezia,Lecce
+Lazio,Empoli
+Milan,Roma
+Sampdoria,Napoli
+Bologna,Atalanta
+Fiorentina,Sassuolo
+Monza,Inter
+Hellas Verona,Cremonese
+Napoli,Juventus
+Atalanta,Salernitana
+Cremonese,Monza
+Torino,Spezia
+Lecce,Milan
+Udinese,Bologna
+Inter,Hellas Verona
+Roma,Fiorentina
+Sassuolo,Lazio
+Empoli,Sampdoria
+Lazio,Milan
+Juventus,Atalanta
+Monza,Sassuolo
+Sampdoria,Udinese
+Inter,Empoli
+Hellas Verona,Lecce
+Salernitana,Napoli
+Spezia,Roma
+Bologna,Cremonese
+Fiorentina,Torino
+Empoli,Torino
+Cremonese,Inter
+Juventus,Monza
+Milan,Sassuolo
+Atalanta,Sampdoria
+Udinese,Hellas Verona
+Napoli,Roma
+Lecce,Salernitana
+Lazio,Fiorentina
+Bologna,Spezia
+Sassuolo,Atalanta
+Cremonese,Lecce
+Torino,Udinese
+Inter,Milan
+Spezia,Napoli
+Hellas Verona,Lazio
+Fiorentina,Bologna
+Salernitana,Juventus
+Roma,Empoli
+Monza,Sampdoria
+Udinese,Sassuolo
+Sampdoria,Inter
+Empoli,Spezia
+Napoli,Cremonese
+Hellas Verona,Salernitana
+Juventus,Fiorentina
+Lecce,Roma
+Lazio,Atalanta
+Bologna,Monza
+Milan,Torino
+Spezia,Juventus
+Roma,Hellas Verona
+Atalanta,Lecce
+Inter,Udinese
+Fiorentina,Empoli
+Torino,Cremonese
+Sampdoria,Bologna
+Salernitana,Lazio
+Monza,Milan
+Sassuolo,Napoli
+Empoli,Napoli
+Udinese,Spezia
+Hellas Verona,Fiorentina
+Lazio,Sampdoria
+Lecce,Sassuolo
+Milan,Atalanta
+Salernitana,Monza
+Bologna,Inter
+Cremonese,Roma
+Juventus,Torino
+Napoli,Lazio
+Sassuolo,Cremonese
+Sampdoria,Salernitana
+Roma,Juventus
+Torino,Bologna
+Atalanta,Udinese
+Inter,Lecce
+Fiorentina,Milan
+Spezia,Hellas Verona
+Monza,Empoli
+Cremonese,Fiorentina
+Milan,Salernitana
+Hellas Verona,Monza
+Bologna,Lazio
+Roma,Sassuolo
+Juventus,Sampdoria
+Napoli,Atalanta
+Lecce,Torino
+Empoli,Udinese
+Spezia,Inter
+Sassuolo,Spezia
+Atalanta,Empoli
+Monza,Cremonese
+Fiorentina,Lecce
+Inter,Juventus
+Sampdoria,Hellas Verona
+Udinese,Milan
+Salernitana,Bologna
+Lazio,Roma
+Torino,Napoli
+Juventus,Hellas Verona
+Empoli,Lecce
+Cremonese,Atalanta
+Inter,Fiorentina
+Roma,Sampdoria
+Sassuolo,Torino
+Spezia,Salernitana
+Napoli,Milan
+Bologna,Udinese
+Monza,Lazio
+Sampdoria,Cremonese
+Lazio,Juventus
+Hellas Verona,Sassuolo
+Fiorentina,Spezia
+Lecce,Napoli
+Torino,Roma
+Salernitana,Inter
+Udinese,Monza
+Milan,Empoli
+Atalanta,Bologna
+Roma,Udinese
+Lecce,Sampdoria
+Sassuolo,Juventus
+Napoli,Hellas Verona
+Bologna,Milan
+Torino,Salernitana
+Spezia,Lazio
+Inter,Monza
+Cremonese,Empoli
+Fiorentina,Atalanta
+Atalanta,Roma
+Milan,Lecce
+Hellas Verona,Bologna
+Monza,Fiorentina
+Sampdoria,Spezia
+Salernitana,Sassuolo
+Udinese,Cremonese
+Lazio,Torino
+Empoli,Inter
+Juventus,Napoli
+Lecce,Udinese
+Bologna,Juventus
+Roma,Milan
+Torino,Atalanta
+Sassuolo,Empoli
+Spezia,Monza
+Fiorentina,Sampdoria
+Napoli,Salernitana
+Inter,Lazio
+Cremonese,Hellas Verona
+Milan,Cremonese
+Monza,Roma
+Udinese,Napoli
+Hellas Verona,Inter
+Juventus,Lecce
+Atalanta,Spezia
+Lazio,Sassuolo
+Salernitana,Fiorentina
+Empoli,Bologna
+Sampdoria,Torino
+Atalanta,Juventus
+Lecce,Hellas Verona
+Sassuolo,Bologna
+Napoli,Fiorentina
+Cremonese,Spezia
+Roma,Inter
+Milan,Lazio
+Empoli,Salernitana
+Udinese,Sampdoria
+Torino,Monza
+Spezia,Milan
+Monza,Napoli
+Lazio,Lecce
+Fiorentina,Udinese
+Inter,Sassuolo
+Bologna,Roma
+Hellas Verona,Torino
+Salernitana,Atalanta
+Sampdoria,Empoli
+Juventus,Cremonese
+Roma,Salernitana
+Milan,Sampdoria
+Sassuolo,Monza
+Cremonese,Bologna
+Torino,Fiorentina
+Atalanta,Hellas Verona
+Udinese,Lazio
+Lecce,Spezia
+Empoli,Juventus
+Napoli,Inter
+Lazio,Cremonese
+Sampdoria,Sassuolo
+Fiorentina,Roma
+Salernitana,Udinese
+Monza,Lecce
+Hellas Verona,Empoli
+Spezia,Torino
+Inter,Atalanta
+Juventus,Milan
+Bologna,Napoli
+Cremonese,Salernitana
+Empoli,Lazio
+Milan,Hellas Verona
+Udinese,Juventus
+Roma,Spezia
+Torino,Inter
+Lecce,Bologna
+Napoli,Sampdoria
+Sassuolo,Fiorentina
+Atalanta,Monza
