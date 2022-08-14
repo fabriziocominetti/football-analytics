@@ -1,0 +1,21 @@
+,team_id,player_id,player_name,min,expected_goals,event_type,team_color,match_id,team_name,venue
+0,9882,847357,Mehdi Leris,1,0.22007841,AttemptSaved,#0888D0,3919073,Sampdoria,H
+1,8524,116555,Duvan Zapata,5,0.01966631,Miss,#1878B8,3919073,Atalanta,A
+2,8524,759097,Joakim Maehle,22,0.83441663,Post,#1878B8,3919073,Atalanta,A
+3,8524,127374,Rafael Toloi,26,0.79133439,Goal,#1878B8,3919073,Atalanta,A
+4,8524,116555,Duvan Zapata,31,0.03622389,AttemptSaved,#1878B8,3919073,Atalanta,A
+5,9882,769644,Abdelhamid Sabiri,33,0.03820485,AttemptSaved,#0888D0,3919073,Sampdoria,H
+6,8524,446266,Mario Pasalic,37,0.01667342,AttemptSaved,#1878B8,3919073,Atalanta,A
+7,9882,769644,Abdelhamid Sabiri,41,0.01358905,AttemptSaved,#0888D0,3919073,Sampdoria,H
+8,9882,769644,Abdelhamid Sabiri,45,0.01985121,AttemptSaved,#0888D0,3919073,Sampdoria,H
+9,9882,769644,Abdelhamid Sabiri,45,0.03788069,Miss,#0888D0,3919073,Sampdoria,H
+10,8524,446266,Mario Pasalic,56,0.08412132,AttemptSaved,#1878B8,3919073,Atalanta,A
+11,9882,722983,Fabio Depaoli,64,0.11150679,AttemptSaved,#0888D0,3919073,Sampdoria,H
+12,9882,769644,Abdelhamid Sabiri,64,0.09001926,Miss,#0888D0,3919073,Sampdoria,H
+13,8524,866516,Teun Koopmeiners,67,0.02792081,AttemptSaved,#1878B8,3919073,Atalanta,A
+14,8524,759097,Joakim Maehle,67,0.03132647,Miss,#1878B8,3919073,Atalanta,A
+15,9882,769644,Abdelhamid Sabiri,70,0.13177988,Post,#0888D0,3919073,Sampdoria,H
+16,9882,769644,Abdelhamid Sabiri,78,0.02172959,AttemptSaved,#0888D0,3919073,Sampdoria,H
+17,9882,39540,Fabio Quagliarella,78,0.09937346,Miss,#0888D0,3919073,Sampdoria,H
+18,9882,39540,Fabio Quagliarella,83,0.1863288,Post,#0888D0,3919073,Sampdoria,H
+19,8524,690516,Ademola Lookman,90,0.32916629,Goal,#1878B8,3919073,Atalanta,A

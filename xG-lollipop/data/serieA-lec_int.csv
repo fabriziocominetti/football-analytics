@@ -1,0 +1,30 @@
+,team_id,player_id,player_name,min,expected_goals,event_type,team_color,match_id,team_name,venue
+0,8636,181276,Romelu Lukaku,2,0.59281212,Goal,#1c1b1b,3919077,Inter,A
+1,8636,690230,Lautaro Martinez,7,0.02337074,Miss,#1c1b1b,3919077,Inter,A
+2,8636,304733,Hakan Calhanoglu,10,0.01973855,AttemptSaved,#1c1b1b,3919077,Inter,A
+3,9888,507007,Assan Ceesay,16,0.03939682,AttemptSaved,#ED1921,3919077,Lecce,H
+4,8636,541820,Nicolo Barella,20,0.03871423,AttemptSaved,#1c1b1b,3919077,Inter,A
+5,8636,206508,Marcelo Brozovic,23,0.05448544,AttemptSaved,#1c1b1b,3919077,Inter,A
+6,9888,836436,Gabriel Strefezza,39,0.06522131,AttemptSaved,#ED1921,3919077,Lecce,H
+7,9888,438507,Federico Di Francesco,43,0.10823157,Miss,#ED1921,3919077,Lecce,H
+8,9888,645576,Kristijan Bistrovic,45,0.03214183,AttemptSaved,#ED1921,3919077,Lecce,H
+9,9888,645576,Kristijan Bistrovic,45,0.01586968,Miss,#ED1921,3919077,Lecce,H
+10,9888,507007,Assan Ceesay,48,0.0728299,Goal,#ED1921,3919077,Lecce,H
+11,9888,836436,Gabriel Strefezza,53,0.0302299,Miss,#ED1921,3919077,Lecce,H
+12,8636,541820,Nicolo Barella,54,0.02303004,AttemptSaved,#1c1b1b,3919077,Inter,A
+13,9888,645576,Kristijan Bistrovic,61,0.13119566,AttemptSaved,#ED1921,3919077,Lecce,H
+14,8636,605224,Federico Dimarco,62,0.02548274,AttemptSaved,#1c1b1b,3919077,Inter,A
+15,8636,181276,Romelu Lukaku,66,0.0233472,AttemptSaved,#1c1b1b,3919077,Inter,A
+16,8636,541820,Nicolo Barella,68,0.03330043,Miss,#1c1b1b,3919077,Inter,A
+17,8636,593118,Denzel Dumfries,69,0.01327077,AttemptSaved,#1c1b1b,3919077,Inter,A
+18,8636,690230,Lautaro Martinez,71,0.20245582,Miss,#1c1b1b,3919077,Inter,A
+19,8636,690230,Lautaro Martinez,72,0.04763073,AttemptSaved,#1c1b1b,3919077,Inter,A
+20,8636,593118,Denzel Dumfries,73,0.04493359,AttemptSaved,#1c1b1b,3919077,Inter,A
+21,8636,541820,Nicolo Barella,73,0.05022731,Miss,#1c1b1b,3919077,Inter,A
+22,9888,896377,Lameck Banda,76,0.03610995,AttemptSaved,#ED1921,3919077,Lecce,H
+23,9888,799230,Federico Baschirotto,77,0.15732908,Miss,#ED1921,3919077,Lecce,H
+24,8636,188555,Stefan de Vrij,78,0.15574023,AttemptSaved,#1c1b1b,3919077,Inter,A
+25,8636,690230,Lautaro Martinez,80,0.12787405,AttemptSaved,#1c1b1b,3919077,Inter,A
+26,8636,181276,Romelu Lukaku,83,0.10207009,AttemptSaved,#1c1b1b,3919077,Inter,A
+27,8636,690230,Lautaro Martinez,90,0.02768135,Miss,#1c1b1b,3919077,Inter,A
+28,8636,593118,Denzel Dumfries,90,0.48505306,Goal,#1c1b1b,3919077,Inter,A
