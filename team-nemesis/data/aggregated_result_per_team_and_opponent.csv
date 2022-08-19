@@ -1,4 +1,4 @@
-,team,total_num_games,opponent,result_metric,num_games,pct_of_points
+,team,total_num_games,opponent,sum_points,num_games,pct_points
 0,Ascoli,76.0,Atalanta,0.0,2.0,0.0
 1,Ascoli,76.0,Cagliari,4.0,4.0,33.33333333333333
 2,Ascoli,76.0,Catania,2.0,2.0,33.33333333333333

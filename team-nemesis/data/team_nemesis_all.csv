@@ -1,4 +1,4 @@
-,team,total_num_games,opponent,result_metric,num_games,pct_of_points
+,team,total_num_games,opponent,sum_points,num_games,pct_points
 54,Atalanta,570.0,Siena,22.0,12.0,61.11111111111112
 29,Atalanta,570.0,Catania,16.0,14.0,38.095238095238095
 25,Atalanta,570.0,Bologna,47.0,24.0,65.27777777777779
