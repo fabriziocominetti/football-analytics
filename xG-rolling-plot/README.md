@@ -1,6 +1,6 @@
 # xG Rolling Plot
 
-![xG-rolling-plot](figures/ACM-xG-rolling-plot2.png)
+![xG-rolling-plot](ACMilan/figures/ACM-xG-rolling-plot.png)
 
 ## About
 
