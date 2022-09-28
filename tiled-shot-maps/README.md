@@ -1,6 +1,6 @@
 # Tiled Shot Maps
 
-![tiled-shot-maps](tiled-shot-maps/figures/07022022_efl-championship-shots.png)
+![tiled-shot-maps](figures/07022022_efl-championship-shots.png)
 
 ## About
 
