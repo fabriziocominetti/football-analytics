@@ -1,6 +1,6 @@
 # xG Lollipop
 
-![xG-lollipop](figures/serieA_2223_round1.png)
+![xG-lollipop](01-SerieA-2223/figures/serieA_2223_round1.png)
 
 ## About
 
