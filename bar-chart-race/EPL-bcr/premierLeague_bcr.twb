@@ -1,0 +1,922 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20213.21.1214.2052                               -->
+<workbook original-version='18.1' source-build='2021.3.5 (20213.21.1214.2052)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <style>
+    <_.fcp.MarkAnimation.true...style-rule element='animation'>
+      <format attr='animation-duration' value='0.5' />
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.MarkAnimation.true...style-rule>
+  </style>
+  <datasources>
+    <datasource caption='premierLeague_tables_1992-2017' inline='true' name='federated.0v9buys0e155vu1ais1b208doyhh' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='premierLeague_tables_1992-2017' name='textscan.07r1xkx1xg9upt1ek8atp19vemyg'>
+            <connection class='textscan' directory='C:/Users/GRMITALY/Documents/Projects/bar_chart_races/PremierLeague' filename='premierLeague_tables_1992-2017.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.07r1xkx1xg9upt1ek8atp19vemyg' name='premierLeague_tables_1992-2017.csv' table='[premierLeague_tables_1992-2017#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='it_IT'>
+            <column datatype='string' name='season' ordinal='0' />
+            <column datatype='string' name='team' ordinal='1' />
+            <column datatype='integer' name='points' ordinal='2' />
+            <column datatype='integer' name='w' ordinal='3' />
+            <column datatype='integer' name='d' ordinal='4' />
+            <column datatype='integer' name='l' ordinal='5' />
+            <column datatype='integer' name='gf' ordinal='6' />
+            <column datatype='integer' name='ga' ordinal='7' />
+            <column datatype='integer' name='gd' ordinal='8' />
+            <column datatype='integer' name='pld' ordinal='9' />
+            <column datatype='integer' name='pld_h' ordinal='10' />
+            <column datatype='integer' name='pld_a' ordinal='11' />
+            <column datatype='integer' name='pts_h' ordinal='12' />
+            <column datatype='integer' name='pts_a' ordinal='13' />
+            <column datatype='integer' name='w_h' ordinal='14' />
+            <column datatype='integer' name='w_a' ordinal='15' />
+            <column datatype='integer' name='d_h' ordinal='16' />
+            <column datatype='integer' name='d_a' ordinal='17' />
+            <column datatype='integer' name='l_h' ordinal='18' />
+            <column datatype='integer' name='l_a' ordinal='19' />
+            <column datatype='integer' name='gf_h' ordinal='20' />
+            <column datatype='integer' name='gf_a' ordinal='21' />
+            <column datatype='integer' name='ga_h' ordinal='22' />
+            <column datatype='integer' name='ga_a' ordinal='23' />
+            <column datatype='integer' name='gd_h' ordinal='24' />
+            <column datatype='integer' name='gd_a' ordinal='25' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.07r1xkx1xg9upt1ek8atp19vemyg' name='premierLeague_tables_1992-2017.csv' table='[premierLeague_tables_1992-2017#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='it_IT'>
+            <column datatype='string' name='season' ordinal='0' />
+            <column datatype='string' name='team' ordinal='1' />
+            <column datatype='integer' name='points' ordinal='2' />
+            <column datatype='integer' name='w' ordinal='3' />
+            <column datatype='integer' name='d' ordinal='4' />
+            <column datatype='integer' name='l' ordinal='5' />
+            <column datatype='integer' name='gf' ordinal='6' />
+            <column datatype='integer' name='ga' ordinal='7' />
+            <column datatype='integer' name='gd' ordinal='8' />
+            <column datatype='integer' name='pld' ordinal='9' />
+            <column datatype='integer' name='pld_h' ordinal='10' />
+            <column datatype='integer' name='pld_a' ordinal='11' />
+            <column datatype='integer' name='pts_h' ordinal='12' />
+            <column datatype='integer' name='pts_a' ordinal='13' />
+            <column datatype='integer' name='w_h' ordinal='14' />
+            <column datatype='integer' name='w_a' ordinal='15' />
+            <column datatype='integer' name='d_h' ordinal='16' />
+            <column datatype='integer' name='d_a' ordinal='17' />
+            <column datatype='integer' name='l_h' ordinal='18' />
+            <column datatype='integer' name='l_a' ordinal='19' />
+            <column datatype='integer' name='gf_h' ordinal='20' />
+            <column datatype='integer' name='gf_a' ordinal='21' />
+            <column datatype='integer' name='ga_h' ordinal='22' />
+            <column datatype='integer' name='ga_a' ordinal='23' />
+            <column datatype='integer' name='gd_h' ordinal='24' />
+            <column datatype='integer' name='gd_a' ordinal='25' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;it&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='debit-close-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='debit-open-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;it_IT&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot;.&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>season</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[season]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>season</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LIT_RIT' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>team</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[team]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>team</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LIT_RIT' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>points</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[points]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>points</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>w</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[w]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>w</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>d</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[d]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>d</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>l</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[l]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>l</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gf</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[gf]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>gf</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ga</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[ga]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>ga</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gd</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[gd]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>gd</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pld</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[pld]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>pld</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pld_h</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[pld_h]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>pld_h</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pld_a</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[pld_a]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>pld_a</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pts_h</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[pts_h]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>pts_h</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pts_a</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[pts_a]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>pts_a</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>w_h</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[w_h]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>w_h</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>w_a</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[w_a]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>w_a</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>d_h</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[d_h]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>d_h</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>d_a</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[d_a]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>d_a</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>l_h</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[l_h]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>l_h</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>l_a</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[l_a]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>l_a</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gf_h</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[gf_h]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>gf_h</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gf_a</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[gf_a]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>gf_a</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ga_h</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[ga_h]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>ga_h</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ga_a</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[ga_a]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>ga_a</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gd_h</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[gd_h]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>gd_h</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gd_a</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[gd_a]</local-name>
+            <parent-name>[premierLeague_tables_1992-2017.csv]</parent-name>
+            <remote-alias>gd_a</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Ranking' datatype='integer' name='[Calculation_640637100070961152]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='RANK_UNIQUE(SUM([points]))'>
+          <table-calc ordering-type='Rows' />
+        </calculation>
+      </column>
+      <_.fcp.ObjectModelTableType.true...column caption='premierLeague_tables_1992-2017.csv' datatype='table' name='[__tableau_internal_object_id__].[premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A]' role='measure' type='quantitative' />
+      <column caption='D' datatype='integer' name='[d]' role='measure' type='quantitative' />
+      <column caption='D A' datatype='integer' name='[d_a]' role='dimension' type='quantitative' />
+      <column caption='D H' datatype='integer' name='[d_h]' role='measure' type='quantitative' />
+      <column caption='Ga' datatype='integer' name='[ga]' role='measure' type='quantitative' />
+      <column caption='Ga A' datatype='integer' name='[ga_a]' role='dimension' type='quantitative' />
+      <column caption='Ga H' datatype='integer' name='[ga_h]' role='measure' type='quantitative' />
+      <column caption='Gd' datatype='integer' name='[gd]' role='measure' type='quantitative' />
+      <column caption='Gd A' datatype='integer' name='[gd_a]' role='dimension' type='quantitative' />
+      <column caption='Gd H' datatype='integer' name='[gd_h]' role='measure' type='quantitative' />
+      <column caption='Gf' datatype='integer' name='[gf]' role='measure' type='quantitative' />
+      <column caption='Gf A' datatype='integer' name='[gf_a]' role='dimension' type='quantitative' />
+      <column caption='Gf H' datatype='integer' name='[gf_h]' role='measure' type='quantitative' />
+      <column caption='L' datatype='integer' name='[l]' role='measure' type='quantitative' />
+      <column caption='L A' datatype='integer' name='[l_a]' role='dimension' type='quantitative' />
+      <column caption='L H' datatype='integer' name='[l_h]' role='measure' type='quantitative' />
+      <column caption='Pld' datatype='integer' name='[pld]' role='measure' type='quantitative' />
+      <column caption='Pld A' datatype='integer' name='[pld_a]' role='dimension' type='quantitative' />
+      <column caption='Pld H' datatype='integer' name='[pld_h]' role='measure' type='quantitative' />
+      <column caption='Points' datatype='integer' name='[points]' role='measure' type='quantitative' />
+      <column caption='Pts A' datatype='integer' name='[pts_a]' role='dimension' type='quantitative' />
+      <column caption='Pts H' datatype='integer' name='[pts_h]' role='measure' type='quantitative' />
+      <column caption='Season' datatype='string' name='[season]' role='dimension' type='nominal' />
+      <column caption='Team' datatype='string' name='[team]' role='dimension' type='nominal' />
+      <column caption='W' datatype='integer' name='[w]' role='measure' type='quantitative' />
+      <column caption='W A' datatype='integer' name='[w_a]' role='dimension' type='quantitative' />
+      <column caption='W H' datatype='integer' name='[w_h]' role='measure' type='quantitative' />
+      <column-instance column='[team]' derivation='None' name='[none:team:nk]' pivot='key' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:team:nk]' palette='tableau-20' type='palette'>
+            <map to='#17becf'>
+              <bucket>&quot;Everton&quot;</bucket>
+            </map>
+            <map to='#17becf'>
+              <bucket>&quot;Sheffield Wednesday&quot;</bucket>
+            </map>
+            <map to='#1f77b4'>
+              <bucket>&quot;Chelsea&quot;</bucket>
+            </map>
+            <map to='#2ca02c'>
+              <bucket>&quot;Norwich City&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Brighton and Hove Albion&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Portsmouth&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Charlton Athletic&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Huddersfield Town&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Oldham Athletic&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Swansea City&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;Bolton Wanderers&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;Fulham&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;Newcastle United&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;Queens Park Rangers&quot;</bucket>
+            </map>
+            <map to='#7f7f7f'>
+              <bucket>&quot;Tottenham Hotspur&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;West Bromwich Albion&quot;</bucket>
+            </map>
+            <map to='#8c564b'>
+              <bucket>&quot;Arsenal&quot;</bucket>
+            </map>
+            <map to='#8c564b'>
+              <bucket>&quot;West Ham United&quot;</bucket>
+            </map>
+            <map to='#9467bd'>
+              <bucket>&quot;Blackburn Rovers&quot;</bucket>
+            </map>
+            <map to='#9467bd'>
+              <bucket>&quot;Ipswich Town&quot;</bucket>
+            </map>
+            <map to='#9edae5'>
+              <bucket>&quot;Manchester City&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Birmingham City&quot;</bucket>
+            </map>
+            <map to='#aec7e8'>
+              <bucket>&quot;Leicester City&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Derby County&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Wigan Athletic&quot;</bucket>
+            </map>
+            <map to='#bcbd22'>
+              <bucket>&quot;Wimbledon FC&quot;</bucket>
+            </map>
+            <map to='#c49c94'>
+              <bucket>&quot;Burnley&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Reading&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;Liverpool&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;Manchester United&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;Middlesbrough&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;Nottingham Forest&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;Southampton&quot;</bucket>
+            </map>
+            <map to='#d62728'>
+              <bucket>&quot;Sunderland&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Cardiff City&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Swindon Town&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Bournemouth&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Sheffield United&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Stoke City&quot;</bucket>
+            </map>
+            <map to='#e377c2'>
+              <bucket>&quot;Aston Villa&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Coventry City&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Barnsley&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Blackpool&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Hull City&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Watford&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Wolverhampton Wanderers&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Crystal Palace&quot;</bucket>
+            </map>
+            <map to='#ff7f0e'>
+              <bucket>&quot;Leeds United&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Bradford City&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;IT&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='premierLeague_tables_1992-2017.csv' id='premierLeague_tables_1992-2017.csv_906F6D93F93640FBBB3B46C27574772A'>
+            <properties context=''>
+              <relation connection='textscan.07r1xkx1xg9upt1ek8atp19vemyg' name='premierLeague_tables_1992-2017.csv' table='[premierLeague_tables_1992-2017#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='it_IT'>
+                  <column datatype='string' name='season' ordinal='0' />
+                  <column datatype='string' name='team' ordinal='1' />
+                  <column datatype='integer' name='points' ordinal='2' />
+                  <column datatype='integer' name='w' ordinal='3' />
+                  <column datatype='integer' name='d' ordinal='4' />
+                  <column datatype='integer' name='l' ordinal='5' />
+                  <column datatype='integer' name='gf' ordinal='6' />
+                  <column datatype='integer' name='ga' ordinal='7' />
+                  <column datatype='integer' name='gd' ordinal='8' />
+                  <column datatype='integer' name='pld' ordinal='9' />
+                  <column datatype='integer' name='pld_h' ordinal='10' />
+                  <column datatype='integer' name='pld_a' ordinal='11' />
+                  <column datatype='integer' name='pts_h' ordinal='12' />
+                  <column datatype='integer' name='pts_a' ordinal='13' />
+                  <column datatype='integer' name='w_h' ordinal='14' />
+                  <column datatype='integer' name='w_a' ordinal='15' />
+                  <column datatype='integer' name='d_h' ordinal='16' />
+                  <column datatype='integer' name='d_a' ordinal='17' />
+                  <column datatype='integer' name='l_h' ordinal='18' />
+                  <column datatype='integer' name='l_a' ordinal='19' />
+                  <column datatype='integer' name='gf_h' ordinal='20' />
+                  <column datatype='integer' name='gf_a' ordinal='21' />
+                  <column datatype='integer' name='ga_h' ordinal='22' />
+                  <column datatype='integer' name='ga_a' ordinal='23' />
+                  <column datatype='integer' name='gd_h' ordinal='24' />
+                  <column datatype='integer' name='gd_a' ordinal='25' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Premier League'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Top 7 Teams by Season </run>
+            <run bold='true' fontsize='20'>&lt;Sheet Name&gt; - &lt;Page Name&gt;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='premierLeague_tables_1992-2017' name='federated.0v9buys0e155vu1ais1b208doyhh' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0v9buys0e155vu1ais1b208doyhh'>
+            <column caption='Ranking' datatype='integer' name='[Calculation_640637100070961152]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='RANK_UNIQUE(SUM([points]))'>
+                <table-calc ordering-type='Rows' />
+              </calculation>
+            </column>
+            <column-instance column='[season]' derivation='None' name='[none:season:nk]' pivot='key' type='nominal' />
+            <column-instance column='[team]' derivation='None' name='[none:team:nk]' pivot='key' type='nominal' />
+            <column caption='Points' datatype='integer' name='[points]' role='measure' type='quantitative' />
+            <column caption='Season' datatype='string' name='[season]' role='dimension' type='nominal' />
+            <column-instance column='[points]' derivation='Sum' name='[sum:points:qk]' pivot='key' type='quantitative' />
+            <column caption='Team' datatype='string' name='[team]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_640637100070961152]' derivation='User' name='[usr:Calculation_640637100070961152:ok:1]' pivot='key' type='ordinal'>
+              <table-calc ordering-field='[federated.0v9buys0e155vu1ais1b208doyhh].[team]' ordering-type='Field' />
+            </column-instance>
+            <column-instance column='[Calculation_640637100070961152]' derivation='User' name='[usr:Calculation_640637100070961152:qk:2]' pivot='key' type='quantitative'>
+              <table-calc ordering-field='[federated.0v9buys0e155vu1ais1b208doyhh].[team]' ordering-type='Field' />
+            </column-instance>
+          </datasource-dependencies>
+          <filter class='quantitative' column='[federated.0v9buys0e155vu1ais1b208doyhh].[usr:Calculation_640637100070961152:qk:2]' included-values='in-range'>
+            <min>1</min>
+            <max>7</max>
+          </filter>
+          <slices>
+            <column>[federated.0v9buys0e155vu1ais1b208doyhh].[usr:Calculation_640637100070961152:qk:2]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0v9buys0e155vu1ais1b208doyhh].[sum:points:qk]' field-type='quantitative' max='114' min='0' range-type='fixed' scope='cols' type='space' />
+            <format attr='height' field='[federated.0v9buys0e155vu1ais1b208doyhh].[sum:points:qk]' value='55' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='height' field='[federated.0v9buys0e155vu1ais1b208doyhh].[usr:Calculation_640637100070961152:ok:1]' value='20' />
+          </style-rule>
+          <style-rule element='annotation'>
+            <format attr='fill-color' id='annotation_1' value='#fafafac1' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0v9buys0e155vu1ais1b208doyhh].[none:team:nk]' />
+              <text column='[federated.0v9buys0e155vu1ais1b208doyhh].[none:team:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='has-stroke' value='true' />
+                <format attr='stroke-color' value='#555555' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0v9buys0e155vu1ais1b208doyhh].[usr:Calculation_640637100070961152:ok:1]</rows>
+        <cols>[federated.0v9buys0e155vu1ais1b208doyhh].[sum:points:qk]</cols>
+        <pages>
+          <column>[federated.0v9buys0e155vu1ais1b208doyhh].[none:season:nk]</column>
+        </pages>
+        <annotations>
+          <annotation class='area' id='1' text-pinx='0.5' text-piny='0.5' text-width-delta='-18'>
+            <formatted-text />
+            <top-left>
+              <visual-coordinate class='axis'>
+                <x-coord axis-value='0.0'>
+                  <node-reference>
+                    <axis>[federated.0v9buys0e155vu1ais1b208doyhh].[sum:points:qk]</axis>
+                  </node-reference>
+                </x-coord>
+                <y-coord cell-offset='0.15'>
+                  <node-reference>
+                    <fields>
+                      <field>[federated.0v9buys0e155vu1ais1b208doyhh].[usr:Calculation_640637100070961152:ok:1]</field>
+                    </fields>
+                    <multibucket>
+                      <bucket>5</bucket>
+                    </multibucket>
+                  </node-reference>
+                </y-coord>
+                <page-reference>
+                  <fields>
+                    <field>[federated.0v9buys0e155vu1ais1b208doyhh].[none:season:nk]</field>
+                  </fields>
+                  <multibucket>
+                    <bucket>&quot;1992-93&quot;</bucket>
+                  </multibucket>
+                </page-reference>
+              </visual-coordinate>
+            </top-left>
+            <bottom-right>
+              <visual-coordinate class='axis'>
+                <x-coord axis-value='113.84254143646409'>
+                  <node-reference>
+                    <axis>[federated.0v9buys0e155vu1ais1b208doyhh].[sum:points:qk]</axis>
+                  </node-reference>
+                </x-coord>
+                <y-coord cell-offset='0.95'>
+                  <node-reference>
+                    <fields>
+                      <field>[federated.0v9buys0e155vu1ais1b208doyhh].[usr:Calculation_640637100070961152:ok:1]</field>
+                    </fields>
+                    <multibucket>
+                      <bucket>7</bucket>
+                    </multibucket>
+                  </node-reference>
+                </y-coord>
+                <page-reference>
+                  <fields>
+                    <field>[federated.0v9buys0e155vu1ais1b208doyhh].[none:season:nk]</field>
+                  </fields>
+                  <multibucket>
+                    <bucket>&quot;1992-93&quot;</bucket>
+                  </multibucket>
+                </page-reference>
+              </visual-coordinate>
+            </bottom-right>
+            <text x='0.5' y='0.5' />
+          </annotation>
+        </annotations>
+      </table>
+      <simple-id uuid='{84351FA3-B75A-4D4A-B4F5-7AACB0BAB3EC}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Premier League'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card type='currpage' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <current-page>
+          <multibucket>
+            <bucket>&quot;2017-18&quot;</bucket>
+          </multibucket>
+        </current-page>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0v9buys0e155vu1ais1b208doyhh].[none:season:nk]</field>
+            <field>[federated.0v9buys0e155vu1ais1b208doyhh].[none:team:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{CE11ED7C-231E-4ED7-A5E2-BFE13A46C4CF}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Premier League' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>
