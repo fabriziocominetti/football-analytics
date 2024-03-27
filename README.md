@@ -1,12 +1,12 @@
 # Football Analytics
 
-Repository containing multiple projects on the subject of Football Analytics
+Repository containing multiple football analytics projects.
 
 -- Project status: [Active]
 
 ## Repository overview
 
-For every subject:
+For every project:
 
 ```
 ├── LICENSE
@@ -16,10 +16,8 @@ For every subject:
 └── figures
 ```
 
-## Installation & Usage
+## Gallery
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+x
 
-#### Acknowledgments & Inspiration
-
-README inside folders
+_README files inside project folders_
