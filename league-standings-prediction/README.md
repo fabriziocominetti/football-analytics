@@ -1,11 +1,11 @@
 # Serie A 2022/23
 
-1. League Standing Historical Data
+- League Standing Historical Data
 
-![SerieA1](./serieA-2223_predicted-historical.png)
+![SerieA1](/league-standings-prediction/figures/serieA-2223_predicted-historical.png)
 
-Thank you to: https://github.com/apaar97
+Inspired by [@Apaar97](https://github.com/apaar97).
 
-2. Random with Personal View
+- Random with Personal View
 
-![SerieA2](./serieA-2223_predicted-random.png)
+![SerieA2](/league-standings-prediction/figures/serieA-2223_predicted-random.png)

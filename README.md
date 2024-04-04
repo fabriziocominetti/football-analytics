@@ -48,7 +48,15 @@ _README files inside project folders_
 
 **Tiled Shot Map**
 
-![tiled-shot-maps](07-SerieA2122/figures/07_SerieA_shots.png)
+![tiled-shot-maps](/tiled-shot-maps/07-SerieA2122/figures/07_SerieA_shots.png)
+
+**Plottable**
+
+![plottable](/plottable/figures/serieA_2324_MD30.png)
+
+![plottable](/plottable/figures/serieB_2324_MD31.png)
+
+![plottable](/plottable/figures/pl_2324_MD30.png)
 
 **UCL Draw**
 
