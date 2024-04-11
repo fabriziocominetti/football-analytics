@@ -9,3 +9,7 @@
 ### About
 
 Data from Fbref and FiveThirtyEight. [Plottable](https://plottable.readthedocs.io/en/latest/).
+
+References:
+- https://plottable.readthedocs.io/en/latest/example_notebooks/wwc_example.html
+- https://plottable.readthedocs.io/en/latest/example_notebooks/bohndesliga_table.html
