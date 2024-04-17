@@ -38,6 +38,10 @@ _README files inside project folders_
 
 ![xG-cumulative](/xG-cumulative/01-SerieA-2223/figures/140822_MilUdi-xG-cumulative.png)
 
+**Running Points**
+
+![running-points](/points-running/figures/pts-running_ACM-INT.png)
+
 **xG Performance Chart**
 
 ![xG-performance](/xG-chart/01_30-SerieA-2122/figures/xG-SerieA_2122.png)
