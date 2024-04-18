@@ -2,14 +2,10 @@
 
 Repository containing various football analytics projects.
 
--- Project status: [Active]
-
 ## Repository overview
 
-For every project:
-
+Structure of each project
 ```
-├── LICENSE
 ├── README.md
 ├── data
 ├── notebooks
