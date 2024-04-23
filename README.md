@@ -48,7 +48,7 @@ _README files inside project folders_
 
 **Tiled Shot Map**
 
-![tiled-shot-maps](/tiled-shot-maps/07-SerieA2122/figures/07_SerieA_shots.png)
+![tiled-shot-maps](/tiled-shot-maps/SerieA_2122/figures/07_SerieA_shots.png)
 
 **Plottable**
 
@@ -61,3 +61,6 @@ _README files inside project folders_
 **UCL Draw**
 
 ![UCL-draw](/ucl-draw/ucl_2223-ro16draw-prediction.png)
+
+---
+Inspired by: @sonofacorner, @mckayjohns, @eddwebster, @soccermatics
