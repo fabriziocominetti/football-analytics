@@ -58,9 +58,5 @@ _README files inside project folders_
 
 ![plottable](/plottable/figures/pl_2324_MD30.png)
 
-**UCL Draw**
-
-![UCL-draw](/ucl-draw/ucl_2223-ro16draw-prediction.png)
-
 ---
 Inspired by: @sonofacorner, @mckayjohns, @eddwebster, @soccermatics
