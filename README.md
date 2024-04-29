@@ -22,6 +22,12 @@ _README files inside project folders_
 
 ![xG-rolling-plot](/xG-rolling-plot/LeedsUnited/figures/LEEDS-xG-rolling-plot.png)
 
+**Smart Fouls**
+
+![smart-fouls](/smart-fouls/figures/smart_fouls_players.png)
+
+![smart-fouls](/smart-fouls/figures/smart_fouls_teams.png)
+
 **xG Lollipop**
 
 ![xG-lollipop](/xG-lollipop/01-SerieA-2223/figures/140822_serieA_2223_round1.png)
