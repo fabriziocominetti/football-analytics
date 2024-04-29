@@ -30,7 +30,7 @@ _README files inside project folders_
 
 **xG Lollipop**
 
-![xG-lollipop](/xG-lollipop/01-SerieA-2223/figures/140822_serieA_2223_round1.png)
+![xG-lollipop](/xG-lollipop/01-SerieA-2223/figures/serieA_2223_round1.png)
 
 **Team Nemesis**
 
