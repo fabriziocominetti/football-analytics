@@ -30,7 +30,7 @@ _README files inside project folders_
 
 **xG Scatter Plot**
 
-![xG-scatter-plot](/xG-scatter-plot/figures/ACM-xG-scatter-plot.png)
+![xG-scatter-plot](/xG-scatter/figures/ACM-xG-scatter-plot.png)
 
 **xG Lollipop**
 
