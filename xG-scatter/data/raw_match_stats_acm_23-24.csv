@@ -1,0 +1,77 @@
+league,season,game,team,Accurate passes,Ball possession,Big chances,Big chances missed,Corners,Expected goals (xG),Fouls committed,Shots on target,Total shots,Accurate passes (%)
+ITA-Serie A,2324,2023-08-21 Bologna-AC Milan,AC Milan,409,47,2,1,6,0.90,4,6,9,0.85
+ITA-Serie A,2324,2023-08-21 Bologna-AC Milan,Bologna,481,53,0,0,3,1.06,10,5,17,0.89
+ITA-Serie A,2324,2023-08-26 AC Milan-Torino,AC Milan,431,59,4,0,2,3.04,13,7,17,0.87
+ITA-Serie A,2324,2023-08-26 AC Milan-Torino,Torino,272,41,0,0,1,0.48,16,1,8,0.81
+ITA-Serie A,2324,2023-09-01 Roma-AC Milan,AC Milan,478,57,1,0,5,1.66,15,4,9,0.88
+ITA-Serie A,2324,2023-09-01 Roma-AC Milan,Roma,336,43,1,1,3,0.71,14,2,13,0.84
+ITA-Serie A,2324,2023-09-16 Inter-AC Milan,AC Milan,475,60,2,1,0,1.06,13,2,9,0.9
+ITA-Serie A,2324,2023-09-16 Inter-AC Milan,Inter,282,40,4,1,5,2.65,16,7,14,0.83
+ITA-Serie A,2324,2023-09-23 AC Milan-Hellas Verona,AC Milan,370,54,1,0,2,0.93,12,4,9,0.81
+ITA-Serie A,2324,2023-09-23 AC Milan-Hellas Verona,Hellas Verona,280,46,2,2,3,0.62,11,2,10,0.75
+ITA-Serie A,2324,2023-09-27 Cagliari-AC Milan,AC Milan,588,67,2,0,5,2.19,6,6,17,0.93
+ITA-Serie A,2324,2023-09-27 Cagliari-AC Milan,Cagliari,253,33,0,0,3,0.88,13,6,16,0.82
+ITA-Serie A,2324,2023-09-30 AC Milan-Lazio,AC Milan,410,50,3,1,7,2.24,15,7,14,0.86
+ITA-Serie A,2324,2023-09-30 AC Milan-Lazio,Lazio,411,50,0,0,1,0.52,5,4,13,0.85
+ITA-Serie A,2324,2023-10-07 Genoa-AC Milan,AC Milan,475,59,2,1,2,0.64,13,3,12,0.86
+ITA-Serie A,2324,2023-10-07 Genoa-AC Milan,Genoa,308,41,0,0,3,0.56,10,1,7,0.81
+ITA-Serie A,2324,2023-10-22 AC Milan-Juventus,AC Milan,363,52,0,0,6,0.31,12,1,7,0.84
+ITA-Serie A,2324,2023-10-22 AC Milan-Juventus,Juventus,356,48,2,2,3,1.43,16,4,14,0.87
+ITA-Serie A,2324,2023-10-29 SSC Napoli-AC Milan,AC Milan,404,52,2,1,4,2.06,10,6,20,0.85
+ITA-Serie A,2324,2023-10-29 SSC Napoli-AC Milan,SSC Napoli,365,48,1,1,6,1.90,14,4,17,0.85
+ITA-Serie A,2324,2023-11-04 AC Milan-Udinese,AC Milan,493,72,2,2,11,0.87,12,4,14,0.9
+ITA-Serie A,2324,2023-11-04 AC Milan-Udinese,Udinese,155,28,3,2,5,1.45,14,2,12,0.73
+ITA-Serie A,2324,2023-11-11 Lecce-AC Milan,AC Milan,364,55,4,2,1,1.11,16,6,10,0.83
+ITA-Serie A,2324,2023-11-11 Lecce-AC Milan,Lecce,278,45,4,3,3,1.46,12,5,14,0.8
+ITA-Serie A,2324,2023-11-25 AC Milan-Fiorentina,AC Milan,284,42,3,2,3,1.83,9,6,9,0.77
+ITA-Serie A,2324,2023-11-25 AC Milan-Fiorentina,Fiorentina,414,58,1,1,11,1.99,10,4,21,0.83
+ITA-Serie A,2324,2023-12-02 AC Milan-Frosinone,AC Milan,350,47,2,0,6,1.17,11,3,10,0.86
+ITA-Serie A,2324,2023-12-02 AC Milan-Frosinone,Frosinone,393,53,1,1,7,0.72,6,3,15,0.85
+ITA-Serie A,2324,2023-12-09 Atalanta-AC Milan,AC Milan,501,58,1,0,4,1.52,11,4,14,0.87
+ITA-Serie A,2324,2023-12-09 Atalanta-AC Milan,Atalanta,349,42,5,3,6,3.33,11,7,19,0.84
+ITA-Serie A,2324,2023-12-17 AC Milan-Monza,AC Milan,364,45,2,0,4,2.03,8,9,17,0.87
+ITA-Serie A,2324,2023-12-17 AC Milan-Monza,Monza,471,55,1,1,5,1.58,8,4,21,0.92
+ITA-Serie A,2324,2023-12-22 Salernitana-AC Milan,AC Milan,449,66,5,3,6,2.22,11,9,21,0.88
+ITA-Serie A,2324,2023-12-22 Salernitana-AC Milan,Salernitana,206,34,1,1,6,1.52,16,7,19,0.77
+ITA-Serie A,2324,2023-12-30 AC Milan-Sassuolo,AC Milan,452,59,1,0,6,1.56,8,2,20,0.88
+ITA-Serie A,2324,2023-12-30 AC Milan-Sassuolo,Sassuolo,286,41,0,0,5,0.49,7,6,12,0.81
+ITA-Serie A,2324,2024-01-07 Empoli-AC Milan,AC Milan,560,65,2,1,6,1.69,13,6,13,0.9
+ITA-Serie A,2324,2024-01-07 Empoli-AC Milan,Empoli,276,35,0,0,6,0.90,9,2,17,0.86
+ITA-Serie A,2324,2024-01-14 AC Milan-Roma,AC Milan,418,48,1,0,2,1.49,12,5,17,0.89
+ITA-Serie A,2324,2024-01-14 AC Milan-Roma,Roma,435,52,1,0,5,1.40,9,5,12,0.87
+ITA-Serie A,2324,2024-01-20 Udinese-AC Milan,AC Milan,471,70,4,2,7,2.72,9,7,15,0.86
+ITA-Serie A,2324,2024-01-20 Udinese-AC Milan,Udinese,156,30,1,0,5,0.55,12,6,11,0.67
+ITA-Serie A,2324,2024-01-27 AC Milan-Bologna,AC Milan,403,50,6,4,4,3.28,16,4,14,0.9
+ITA-Serie A,2324,2024-01-27 AC Milan-Bologna,Bologna,396,50,3,2,1,1.84,12,4,15,0.85
+ITA-Serie A,2324,2024-02-03 Frosinone-AC Milan,AC Milan,426,58,3,0,4,1.42,13,5,13,0.84
+ITA-Serie A,2324,2024-02-03 Frosinone-AC Milan,Frosinone,294,42,1,0,2,1.02,10,4,7,0.78
+ITA-Serie A,2324,2024-02-11 AC Milan-SSC Napoli,AC Milan,309,40,2,1,1,0.90,9,6,10,0.79
+ITA-Serie A,2324,2024-02-11 AC Milan-SSC Napoli,SSC Napoli,505,60,0,0,2,0.67,12,2,12,0.88
+ITA-Serie A,2324,2024-02-18 Monza-AC Milan,AC Milan,398,50,1,0,3,1.33,10,6,16,0.85
+ITA-Serie A,2324,2024-02-18 Monza-AC Milan,Monza,389,50,1,0,7,1.75,11,6,12,0.85
+ITA-Serie A,2324,2024-02-25 AC Milan-Atalanta,AC Milan,553,68,1,1,5,1.30,12,7,20,0.88
+ITA-Serie A,2324,2024-02-25 AC Milan-Atalanta,Atalanta,215,32,1,0,3,1.12,16,3,8,0.73
+ITA-Serie A,2324,2024-03-01 Lazio-AC Milan,AC Milan,453,62,1,0,5,1.00,19,5,14,0.89
+ITA-Serie A,2324,2024-03-01 Lazio-AC Milan,Lazio,251,38,3,3,2,1.33,17,3,11,0.8
+ITA-Serie A,2324,2024-03-10 AC Milan-Empoli,AC Milan,505,62,1,1,11,0.84,18,5,15,0.91
+ITA-Serie A,2324,2024-03-10 AC Milan-Empoli,Empoli,286,38,1,1,4,0.19,13,2,5,0.84
+ITA-Serie A,2324,2024-03-17 Hellas Verona-AC Milan,AC Milan,395,56,5,3,5,2.74,8,6,18,0.87
+ITA-Serie A,2324,2024-03-17 Hellas Verona-AC Milan,Hellas Verona,288,44,1,1,3,0.54,9,4,15,0.81
+ITA-Serie A,2324,2024-03-30 Fiorentina-AC Milan,AC Milan,373,56,5,3,5,3.10,12,10,14,0.82
+ITA-Serie A,2324,2024-03-30 Fiorentina-AC Milan,Fiorentina,282,44,3,3,7,1.38,8,7,17,0.78
+ITA-Serie A,2324,2024-04-06 AC Milan-Lecce,AC Milan,574,64,4,3,5,1.49,8,8,16,0.92
+ITA-Serie A,2324,2024-04-06 AC Milan-Lecce,Lecce,300,36,2,2,1,0.53,8,7,11,0.86
+ITA-Serie A,2324,2024-04-14 Sassuolo-AC Milan,AC Milan,460,68,6,4,6,2.84,9,7,23,0.86
+ITA-Serie A,2324,2024-04-14 Sassuolo-AC Milan,Sassuolo,178,32,2,1,2,1.19,12,5,10,0.68
+ITA-Serie A,2324,2024-04-22 AC Milan-Inter,AC Milan,445,52,4,3,5,2.17,19,6,15,0.87
+ITA-Serie A,2324,2024-04-22 AC Milan-Inter,Inter,409,48,2,1,3,2.05,10,3,11,0.85
+ITA-Serie A,2324,2024-04-27 Juventus-AC Milan,AC Milan,393,49,0,0,4,0.31,4,0,9,0.88
+ITA-Serie A,2324,2024-04-27 Juventus-AC Milan,Juventus,398,51,2,2,9,1.48,10,7,18,0.87
+ITA-Serie A,2324,2024-05-05 AC Milan-Genoa,AC Milan,464,60,3,1,7,2.80,8,7,26,0.88
+ITA-Serie A,2324,2024-05-05 AC Milan-Genoa,Genoa,287,40,1,0,1,0.96,10,2,6,0.79
+ITA-Serie A,2324,2024-05-11 AC Milan-Cagliari,AC Milan,584,67,6,3,6,3.30,11,10,17,0.91
+ITA-Serie A,2324,2024-05-11 AC Milan-Cagliari,Cagliari,257,33,1,0,3,1.50,9,7,13,0.81
+ITA-Serie A,2324,2024-05-18 Torino-AC Milan,AC Milan,373,60,1,0,8,1.96,14,4,16,0.86
+ITA-Serie A,2324,2024-05-18 Torino-AC Milan,Torino,229,40,2,0,3,0.94,15,5,11,0.8
+ITA-Serie A,2324,2024-05-25 AC Milan-Salernitana,AC Milan,467,66,3,1,13,2.99,6,11,23,0.87
+ITA-Serie A,2324,2024-05-25 AC Milan-Salernitana,Salernitana,217,34,3,1,3,1.66,9,6,14,0.79
