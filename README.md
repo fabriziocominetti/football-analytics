@@ -28,6 +28,10 @@ _README files inside project folders_
 
 ![smart-fouls](/smart-fouls/figures/smart_fouls_teams.png)
 
+**xG Scatter Plot**
+
+![xG-scatter-plot](/xG-scatter-plot/figures/ACM-xG-scatter-plot.png)
+
 **xG Lollipop**
 
 ![xG-lollipop](/xG-lollipop/01-SerieA-2223/figures/serieA_2223_round1.png)
