@@ -6,6 +6,8 @@ This application provides a user-friendly interface for exploring player data an
 
 ![Player Recommender Tool v2](/player-recommender/v2/figures/streamlit-recommender_tool_v2.gif)
 
+[Open Web App](https://huggingface.co/spaces/fcx1/player-recommender)
+
 ### About
 
 The "Player Recommender Tool" is a data-driven application designed to aid in football player scouting, focusing on the top five European leagues. The tool provide insights into player performance and recommend similar players based on various metrics.
