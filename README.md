@@ -36,6 +36,12 @@ _README files inside project folders_
 
 ![xG-scatter-plot](/xG-scatter/figures/ACM-xG-scatter-plot.png)
 
+**Playing Time**
+
+![playing-time-Italy](playing-time/figures/euro2024-Italy-pt.png)
+
+![playing-time-SerieA](playing-time/figures/SerieA_23-24-pt.png)
+
 **xG Lollipop**
 
 ![xG-lollipop](/xG-lollipop/01-SerieA-2223/figures/serieA_2223_round1.png)
