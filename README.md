@@ -36,6 +36,12 @@ _README files inside project folders_
 
 ![xG-scatter-plot](/xG-scatter/figures/ACM-xG-scatter-plot.png)
 
+**Player Shotmap**
+
+![leao-shotmap](/player-shotmap/figures/leao-shots_23-24.png)
+
+![vinicius-shotmap](/player-shotmap/figures/vinicius-shots_23-24.png)
+
 **Playing Time**
 
 ![playing-time-Italy](playing-time/figures/euro2024-Italy-pt.png)
