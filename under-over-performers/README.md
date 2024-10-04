@@ -1,6 +1,6 @@
 # Under & Overperformers
 
-![under-over-performers](figures/over_underperformers.png)
+![under-over-performers](figures/under-over-performers.png)
 
 ### About
 
