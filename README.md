@@ -74,7 +74,7 @@ _README files inside project folders_
 
 **Tiled Shot Map**
 
-![tiled-shot-maps](/tiled-shot-maps/SerieA_2122/figures/07_SerieA_shots.png)
+![tiled-shot-maps](/tiled-shot-maps/figures/07_SerieA_shots.png)
 
 **Plottable**
 
