@@ -2,16 +2,6 @@
 
 Repository containing various football analytics projects.
 
-## Repository overview
-
-Structure of each project
-```
-├── README.md
-├── data
-├── notebooks
-└── figures
-```
-
 _README files inside project folders_
 
 ## Gallery
@@ -50,7 +40,7 @@ _README files inside project folders_
 
 **xG Lollipop**
 
-![xG-lollipop](/xG-lollipop/01-SerieA-2223/figures/serieA_2223_round1.png)
+![xG-lollipop](/xG-lollipop/figures/serieA_2223_round1.png)
 
 **Team Nemesis**
 
