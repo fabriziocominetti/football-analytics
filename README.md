@@ -10,6 +10,10 @@ _README files inside project folders_
 
 ![player-recommender-tool](/player-recommender/v2/figures/streamlit-recommender_tool_v2.gif)
 
+**Match Dashboard**
+
+![football-match-dashboard](/football-match-dashboard/figures/acmilan_liverpool_UCL_20070523.png)
+
 **xG Rolling Plot**
 
 ![xG-rolling-plot](/xG-rolling-plot/ACMilan/figures/ACM-xG-rolling-plot.png)
