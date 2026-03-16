@@ -1,0 +1,10 @@
+Date,Comp,Round,Day,Venue,Result,Gf,Ga,Opponent,Gls,Sh,SoT,SoT%,G/Sh,G/SoT,Dist,Fk,Pk,Pkatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,For/Against
+2024-08-17,Serie A,1,Sat,Home,D,2,2,Torino,2,26,5,19.2,0.08,0.40,18.5,0,0,0,2.1,2.1,0.08,-0.1,-0.1,For
+2024-08-24,Serie A,2,Sat,Away,L,1,2,Parma,1,17,5,29.4,0.06,0.20,18.6,0,0,0,1.9,1.9,0.12,-0.9,-0.9,For
+2024-08-31,Serie A,3,Sat,Away,D,2,2,Lazio,2,10,4,40.0,0.20,0.50,17.5,1,0,0,1.3,1.3,0.13,+0.7,+0.7,For
+2024-09-14,Serie A,4,Sat,Home,W,4,0,Venezia,4,10,6,60.0,0.20,0.33,20.0,0,2,2,2.2,0.7,0.07,+1.8,+1.3,For
+2024-09-17,Champions Lg,League phase,Tue,Home,L,1,3,eng Liverpool,1,8,2,25.0,0.13,0.50,16.3,0,0,0,0.6,0.6,0.08,+0.4,+0.4,For
+2024-09-22,Serie A,5,Sun,Away,W,2,1,Inter,2,16,8,50.0,0.13,0.25,16.4,0,0,0,1.7,1.7,0.11,+0.3,+0.3,For
+2024-09-27,Serie A,6,Fri,Home,W,3,0,Lecce,3,15,6,40.0,0.20,0.50,16.4,0,0,0,1.6,1.6,0.11,+1.4,+1.4,For
+2024-10-01,Champions Lg,League phase,Tue,Away,L,0,1,de Leverkusen,0,16,5,31.3,0.00,0.00,22.6,0,0,0,1.0,1.0,0.06,-1.0,-1.0,For
+2024-10-06,Serie A,7,Sun,Away,L,1,2,Fiorentina,1,14,6,42.9,0.07,0.17,17.0,0,0,2,2.6,1.0,0.07,-1.6,0.0,For
