@@ -1,0 +1,5 @@
+matplotlib==3.10.8
+mplsoccer==1.6.1
+pandas==3.0.1
+pillow==12.1.1
+statsbombpy==1.17.0
